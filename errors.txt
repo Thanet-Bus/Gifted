@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 7: expected statement.
+    images oldman_cabin = "oldman_cabin1.png"
+                        ^
+
+Ren'Py Version: Ren'Py 8.1.1.23060707
+Fri Sep  8 12:11:59 2023
