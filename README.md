@@ -1,2 +1,2 @@
 # Gifted
- visual novel game from high school student ideas for computer class
+ Visual novel game from high school student ideas for computer classes and hobby.
